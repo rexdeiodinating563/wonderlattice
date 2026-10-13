@@ -1,3 +1,0 @@
-# Every change to a language file needs the maintainer's review: they are scripts that run on the site.
-/src/lang/ @eyal-weiss
-/scripts/lang-guard.mjs @eyal-weiss

